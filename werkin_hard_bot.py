@@ -35,7 +35,7 @@ def create_tweet():
         "Engagement",
         "Progressive",
         "a Paradigm Shift",
-        "a Game Change",
+        "a Game Changer",
         "Moving the Needle",
     ]
     rando1 = random.randint(0, 9)
