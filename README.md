@@ -5,7 +5,7 @@
 add keys, tokens, secrets to secret.yaml file in local directory to load into python
 execute script to arbitrarily tweet some buzzwords about what you are working on.
 
-*secrets.yaml format:*
+###### *secrets.yaml format:*
 
 api_key: *xxxxxxx*  
 api_secret: *xxxxxxx*  
