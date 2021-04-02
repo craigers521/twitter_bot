@@ -22,7 +22,7 @@ def create_tweet():
         "Azure",
         "AWS",
         "Ansible",
-        "Batfish",
+        "Elastic Stack",
         "Infrastructure-as-Code",
     ]
 
